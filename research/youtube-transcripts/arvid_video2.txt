@@ -1,1 +1,13 @@
+### Video 2: AI Liability Landmines
 
+Insight:
+This content shows the risks of blindly relying on AI tools. 
+For Reddit-based growth, it suggests that authenticity and human judgment are more reliable 
+than over-automating interactions or engagement.
+
+Key Points:
+- AI agents can misinterpret or damage user data, so safeguards like rate limits and soft deletes are important  
+- External bots or agents can overload systems, requiring defensive infrastructure similar to security protection  
+- Internal mistakes (like connecting to production systems) highlight the need for sandboxing and backups  
+- Businesses are responsible for AI outcomes, not tool providers  
+- Long-term advantage comes from unique human data and relationships, not AI tools alone 

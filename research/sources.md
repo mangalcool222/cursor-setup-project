@@ -38,13 +38,32 @@ In the AI era, naive “build in public” strategies can backfire. For Reddit m
 
 ## 3. Justin Welsh
 
-- Platform: LinkedIn / Twitter
-- Link: https://www.justinwelsh.me
-- Why chosen: Expert in organic content systems and authority building
-- Key focus: Non-promotional content that builds trust
-- What to extract:
-  - Writing style that builds credibility
-  - Consistency and content systems
+Platform: LinkedIn / Twitter / YouTube / Newsletter
+
+Links: https://www.justinwelsh.me
+YouTube 1: https://www.youtube.com/watch?v=0UxQbhaoMlQ
+YouTube 2: https://www.youtube.com/watch?v=Mp8m-ysmfq4
+LinkedIn 1: https://linkedin.com/posts/xxxxx  
+LinkedIn 2: https://linkedin.com/posts/xxxxx  
+
+Why Chosen:
+Built a multi-million dollar solopreneur business through content-first growth. His strategy focuses on consistent value creation, audience trust, and monetizing knowledge through simple digital products — highly relevant for Reddit-style organic growth.
+
+Key Focus:
+Content-led growth, trust-based monetization, solopreneur systems, and audience-driven positioning
+
+What to Extract:
+
+How “give-first” content builds trust before monetization  
+How creators can monetize without large audiences using trust tripwires  
+Content systems (idea → repurpose → distribute)  
+How to balance short-form visibility vs long-form authority  
+How audience data and feedback shape positioning and offers  
+How to stay niche-focused while covering multiple subtopics  
+How to build a one-person business without scaling complexity  
+
+Key Takeaway:
+Justin’s strategy shows that consistent value-driven content + deep audience understanding can build a profitable one-person business. For Reddit marketing, this translates to contributing high-value insights, building trust over time, and monetizing gradually rather than pushing direct promotions early.
 
 ---
 

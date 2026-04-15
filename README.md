@@ -39,7 +39,7 @@ Used online resources and documentation to understand the setup and workflow.
 ## Part 2: Research Project
 
 ### Topic Chosen
-Reddit as a Cold Start Engine for B2B SaaS
+Reddit Marketing for B2B SaaS (with a focus on Cold Start Engine)
 
 ### Why I Chose This
 Instead of choosing saturated channels like cold outreach, I focused on Reddit as an underutilized but high-intent acquisition channel for early-stage B2B SaaS.

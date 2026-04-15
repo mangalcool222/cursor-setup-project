@@ -41,9 +41,13 @@ In the AI era, naive “build in public” strategies can backfire. For Reddit m
 Platform: LinkedIn / Twitter / YouTube / Newsletter
 
 Links: https://www.justinwelsh.me
+
 YouTube 1: https://www.youtube.com/watch?v=0UxQbhaoMlQ
+
 YouTube 2: https://www.youtube.com/watch?v=Mp8m-ysmfq4
+
 LinkedIn 1: https://linkedin.com/posts/xxxxx  
+
 LinkedIn 2: https://linkedin.com/posts/xxxxx  
 
 Why Chosen:

@@ -1,1 +1,13 @@
+### Video 1: Building in Public Risks
 
+Insight:
+This content highlights why founders must be careful about what they share publicly. 
+In the context of Reddit, this means sharing insights and experiences while avoiding 
+specific product details that can be easily replicated by others.
+
+Key Points:
+- The old playbook of openly sharing metrics (like MRR) worked earlier, but now enables fast cloning using AI tools  
+- Founders should share operational learnings that are valuable but difficult to replicate  
+- A good filter for content: “interesting to follow” but “hard to clone”  
+- Customer relationships and execution still remain strong defensible advantages  
+- In today’s AI environment, even early-stage ideas can attract competition if overshared 

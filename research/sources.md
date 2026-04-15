@@ -1,14 +1,26 @@
 # Research Sources
 
+# Research Sources
+
 ## 1. Arvid Kahl
 
-- Platform: Twitter / Blog / Podcast
-- Link: https://arvidkahl.com
-- Why chosen: Indie SaaS founder who built and sold a company using audience-first and community-driven growth
-- Key focus: Building in public, trust-first audience building
-- What to extract:
-  - How founders engage before promoting
-  - Audience-first vs product-first approach
+- Platform: Twitter / Blog / Podcast  
+- Link: https://arvidkahl.com  
+
+- Why Chosen:  
+Indie SaaS founder who built and sold a company using audience-first and community-driven growth. His work focuses on building trust before monetization, which directly aligns with Reddit-style engagement.
+
+- Key Focus:  
+Building in public, audience-first growth, and trust-driven engagement  
+
+- What to Extract:  
+- How founders engage with communities before promoting their product  
+- Difference between audience-first vs product-first approach  
+- What to share publicly vs what to avoid (especially in open communities like Reddit)  
+- How trust and consistency drive early-stage traction  
+
+- Key Takeaway:  
+In the AI era, naive “build in public” strategies can backfire. For Reddit marketing, founders should focus on sharing experiences and insights while protecting core product details, using the platform to build trust and engagement rather than exposing easily replicable ideas.
 
 ---
 

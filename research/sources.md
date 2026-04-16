@@ -1,6 +1,6 @@
 # Research Sources
 
-## Arvid Kahl
+## 1. Arvid Kahl
 **Platform:** Twitter / Blog / Podcast  
 **Link:** [https://arvidkahl.com](https://arvidkahl.com)
 

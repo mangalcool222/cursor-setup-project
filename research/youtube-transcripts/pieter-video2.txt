@@ -1,0 +1,14 @@
+Video: Startup Without Funding
+
+Source: [https://www.youtube.com/watch?v=6reLWfFNer0]
+
+Insight:
+Pieter’s bootstrap strategy focuses on launching products in communities like Reddit, Product Hunt, and Hacker News to validate ideas and acquire early users without paid marketing.
+
+Key Points:
+	•	Build multiple projects to increase chances of success
+	•	Launch on multiple platforms simultaneously (PH + HN + Reddit + Twitter)
+	•	Use feedback forms to collect emails during early stages
+	•	Ship MVP quickly and iterate based on user feedback
+	•	Leverage communities for organic reach and validation
+	•	Avoid reliance on funding; focus on execution and speed

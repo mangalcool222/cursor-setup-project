@@ -1,5 +1,8 @@
 ### Blog: Claude Code Best Practices
 
+Source: https://thebootstrappedfounder.com/
+
+
 Insight:
 This content emphasizes the importance of controlled and intentional use of AI tools. 
 In the context of Reddit marketing, this means using AI as a support tool while keeping 

@@ -1,0 +1,14 @@
+Video 1: SaaS Growth Secrets
+
+Source: [https://www.youtube.com/watch?v=h_7qiQHp1lo]
+
+Insight:
+Corey Haines emphasizes combining customer research with build-in-public strategies. Sharing real metrics and learnings helps attract users and validate ideas through community engagement.
+
+Key Points:
+	•	Customer interviews guide feature prioritization
+	•	Community feedback validates product decisions
+	•	Sharing real metrics (churn, LTV, activation) builds trust
+	•	Use structured frameworks to understand user psychology
+	•	Focus on high-impact work instead of low-value tasks
+	•	Align team around customer feedback for faster iteration

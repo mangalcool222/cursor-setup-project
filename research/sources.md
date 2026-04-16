@@ -1,154 +1,270 @@
-# Research Sources
+1. Arvid Kahl
 
-# Research Sources
+Platform: Twitter / Blog / Podcast
+Link: https://arvidkahl.com
 
-## 1. Arvid Kahl
+Video1_Source: https://www.youtube.com/watch?v=PWF_1_r0Dl8
 
-- Platform: Twitter / Blog / Podcast  
-- Link: https://arvidkahl.com  
+Video2_Source: https://www.youtube.com/watch?v=dKZOtRodPjU
 
-- Why Chosen:  
-Indie SaaS founder who built and sold a company using audience-first and community-driven growth. His work focuses on building trust before monetization, which directly aligns with Reddit-style engagement.
-
-- Key Focus:  
-Building in public, audience-first growth, and trust-driven engagement  
-
-- What to Extract:  
-- How founders engage with communities before promoting their product  
-- Difference between audience-first vs product-first approach  
-- What to share publicly vs what to avoid (especially in open communities like Reddit)  
-- How trust and consistency drive early-stage traction  
-
-- Key Takeaway:  
-In the AI era, naive “build in public” strategies can backfire. For Reddit marketing, founders should focus on sharing experiences and insights while protecting core product details, using the platform to build trust and engagement rather than exposing easily replicable ideas.
-
----
-
-## 2. Pieter Levels
-
-- Platform: Twitter / Indie Hackers / Blog
-- Link: https://levels.io
-- Why chosen: Built multiple products using communities like Reddit and Indie Hackers without paid marketing
-- Key focus: Validation through communities
-- What to extract:
-  - Using communities for idea validation
-  - Early traction without ads
-
----
-
-## 3. Justin Welsh
-
-Platform: LinkedIn / Twitter / YouTube / Newsletter
-
-Links: https://www.justinwelsh.me
-
-YouTube 1: https://www.youtube.com/watch?v=0UxQbhaoMlQ
-
-YouTube 2: https://www.youtube.com/watch?v=Mp8m-ysmfq4
-
-LinkedIn 1: https://linkedin.com/posts/xxxxx  
-
-LinkedIn 2: https://linkedin.com/posts/xxxxx  
+Blog1_Source: https://thebootstrappedfounder.com/
 
 Why Chosen:
-Built a multi-million dollar solopreneur business through content-first growth. His strategy focuses on consistent value creation, audience trust, and monetizing knowledge through simple digital products — highly relevant for Reddit-style organic growth.
+Indie SaaS founder who built and sold a company using audience-first and community-driven growth.
 
 Key Focus:
-Content-led growth, trust-based monetization, solopreneur systems, and audience-driven positioning
+Building in public, trust-first audience building
 
 What to Extract:
-
-How “give-first” content builds trust before monetization  
-How creators can monetize without large audiences using trust tripwires  
-Content systems (idea → repurpose → distribute)  
-How to balance short-form visibility vs long-form authority  
-How audience data and feedback shape positioning and offers  
-How to stay niche-focused while covering multiple subtopics  
-How to build a one-person business without scaling complexity  
+	•	Community engagement before promotion
+	•	Audience-first vs product-first
+	•	Trust building in public platforms
 
 Key Takeaway:
-Justin’s strategy shows that consistent value-driven content + deep audience understanding can build a profitable one-person business. For Reddit marketing, this translates to contributing high-value insights, building trust over time, and monetizing gradually rather than pushing direct promotions early.
+Build trust first, share selectively, and use communities like Reddit for engagement—not exposure of core ideas.
 
----
+⸻
 
-## 4. Dan Koe
+2. Pieter Levels
 
-- Platform: YouTube / Twitter
-- Link: https://thedankoe.com
-- Why chosen: Focuses on deep thinking content and audience psychology
-- Key focus: Thought-driven content and personal brand building
-- What to extract:
-  - Why “thinking content” works better than tactical content
-  - Long-form vs short-form impact
+Platform: Twitter / Indie Hackers / Blog
+Link: https://levels.io
 
----
+Blog3_Source: [https://levels.io/hoodmaps/]
 
-## 5. Shaan Puri
+Podcast_Source: [https://levels.io/indie-hackers-2/]
 
-- Platform: Podcast / Twitter
-- Link: https://www.mfmpod.com
-- Why chosen: Shares real startup growth experiments including community-driven growth
-- Key focus: Viral loops and unconventional growth tactics
-- What to extract:
-  - How communities create distribution
-  - Story-based growth ideas
+Video2_Source: [https://www.youtube.com/watch?v=6reLWfFNer0]
 
----
+Blog1_Source: [https://levels.io/idea-validation/]
 
-## 6. Noah Kagan
+Why Chosen:
+Built multiple profitable products using Reddit + Indie Hackers without paid marketing.
 
-- Platform: YouTube / Blog
-- Link: https://okdork.com
-- Why chosen: Early adopter of community-based growth strategies and validation techniques
-- Key focus: Getting first users without paid ads
-- What to extract:
-  - First traction strategies
-  - Validation before scaling
+Key Focus:
+Community-driven validation and fast iteration
 
----
+What to Extract:
+	•	Idea validation via communities
+	•	Pre-selling before building
+	•	Fast MVP cycles
 
-## 7. Julian Shapiro
+Key Takeaway:
+Reddit acts as a free validation engine — test → pre-sell → build → iterate.
 
-- Platform: Blog / Twitter
-- Link: https://www.julian.com
-- Why chosen: Expert in writing and persuasion, crucial for Reddit-style content
-- Key focus: High-quality writing and clarity
-- What to extract:
-  - Writing techniques for engagement
-  - Persuasive storytelling
+⸻
 
----
+3. Justin Welsh
 
-## 8. Harry Dry
+Platform: LinkedIn / Twitter / YouTube / Newsletter
+Link: https://www.justinwelsh.me
 
-- Platform: Marketing Examples / Twitter
-- Link: https://marketingexamples.com
-- Why chosen: Breaks down marketing strategies using simple storytelling
-- Key focus: Clarity and real-world examples
-- What to extract:
-  - Storytelling frameworks
-  - Simplifying complex ideas
+YouTube 1: https://www.youtube.com/watch?v=0UxQbhaoMlQ
+YouTube 2: https://www.youtube.com/watch?v=Mp8m-ysmfq4
 
----
+LinkedIn 1: Link: https://www.linkedin.com/posts/justinwelsh_most-people-dont-believe-that-its-possible-activity-7449785625802723328-x8g3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDYtzUBxfSH1ybiwpzI5MMeVhsDO3GipEA
 
-## 9. Lenny Rachitsky
+LinkedIn 2: https://www.linkedin.com/posts/justinwelsh_lots-of-people-mean-well-when-they-give-you-activity-7449060848205185024-S2_U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDYtzUBxfSH1ybiwpzI5MMeVhsDO3GipEA
 
-- Platform: Newsletter / Podcast
-- Link: https://www.lennysnewsletter.com
-- Why chosen: Deep insights on growth and product-led strategies
-- Key focus: Growth loops and retention
-- What to extract:
-  - Community-driven growth loops
-  - Retention via engagement
+Why Chosen:
+Built a multi-million dollar solopreneur business through content-first growth.
 
----
+Key Focus:
+Content-led growth, trust-based monetization
 
-## 10. Alex Hormozi
+What to Extract:
+	•	Give-first content strategy
+	•	Trust-based monetization (low-ticket → upsell)
+	•	Content systems (idea → repurpose → distribute)
+	•	Short-form vs long-form balance
+	•	Niche positioning
 
-- Platform: YouTube / Twitter
-- Link: https://www.acquisition.com
-- Why chosen: Strong understanding of attention, value creation, and audience psychology
-- Key focus: Value-first content and hooks
-- What to extract:
-  - How to capture attention
-  - Structuring high-value content
+Key Takeaway:
+Consistent value + trust → audience → monetization. Reddit = give value first, sell later.
+
+⸻
+
+4. Greg Isenberg
+
+Platform: Twitter / YouTube / Newsletter
+Link: https://www.gregisenberg.com
+
+Video1_Source: https://www.youtube.com/watch?v=e9J9s2_DAKE&t=3s
+
+Video2_Source: https://www.gregisenberg.com/
+
+Why Chosen:
+Strong voice in community-led growth and distribution systems.
+
+Key Focus:
+Community-first growth
+
+What to Extract:
+	•	Building niche communities
+	•	Turning audience into distribution
+	•	Superfan dynamics
+
+Key Takeaway:
+Community → retention → monetization. Reddit = starting layer of community building.
+
+⸻
+
+5. Courtland Allen
+
+Platform: Indie Hackers / Podcast / Twitter
+Link: https://www.indiehackers.com
+
+Video1_Source: [https://www.software-engineering-unlocked.com/episode-12-profitable-business-courtland-allen/]
+
+Video2_Source: [https://www.youtube.com/watch?v=HR4nKgDnPHs]
+
+Blog1_Source: [https://www.indiehackers.com]
+
+Why Chosen:
+Built Indie Hackers — one of the strongest founder communities.
+
+Key Focus:
+Transparency + community growth
+
+What to Extract:
+	•	Revenue transparency
+	•	Founder storytelling
+	•	Feedback loops
+
+Key Takeaway:
+Sharing real journeys builds trust → attracts early users organically.
+
+⸻
+
+6. Corey Haines
+
+Platform: Twitter / Blog
+Link: https://www.coreyhaines.co
+Source_Podcast2: [https://gettheaudience.com/e13-corey-haines-develop-community-marketers/]
+
+Source_Podcast1: [https://openthreads.co/3/transcript]
+
+Source_Blog: [https://www.coreyhaines.co]
+
+Source_Video1: [https://www.youtube.com/watch?v=h_7qiQHp1lo]
+
+Why Chosen:
+Built Swipewell using content + community-first approach.
+
+Key Focus:
+Build in public + content marketing
+
+What to Extract:
+	•	Public metrics sharing
+	•	Content-first product building
+	•	Community feedback loops
+
+Key Takeaway:
+Content → community → product → PMF. Reddit = feedback engine.
+
+⸻
+
+7. Josh Comeau
+
+Platform: Blog / Twitter
+Link: https://www.joshwcomeau.com
+
+Twitter_Source: [https://twitter.com/JoshWComeau]
+
+Blog_Source: [https://www.joshwcomeau.com]
+
+
+Why Chosen:
+Built a dev audience through deep, high-value content.
+
+Key Focus:
+Trust-based long-form content
+
+What to Extract:
+	•	High-value educational content
+	•	Deep engagement strategies
+	•	Community trust building
+
+Key Takeaway:
+Depth > virality. On Reddit, detailed helpful posts win.
+
+⸻
+
+8. Noah Kagan
+
+Platform: YouTube / Blog
+Link: https://okdork.com
+
+Video1_Source: https://www.youtube.com/watch?v=BIUOlBPJzPI 
+
+Video2_Source: https://www.youtube.com/watch?v=37a9esXZGdE  
+
+Video3_Source: https://www.youtube.com/watch?v=Ax1S8IFqAVU
+
+Why Chosen:
+Expert in early traction and validation strategies.
+
+Key Focus:
+First users + validation
+
+What to Extract:
+	•	Pre-selling
+	•	Direct outreach
+	•	Scrappy growth tactics
+
+Key Takeaway:
+Manual outreach + Reddit DMs = first customers without ads.
+
+⸻
+
+9. Shaan Puri
+
+Platform: Podcast / Twitter
+Link: https://www.mfmpod.com
+
+Video_4: https://www.youtube.com/watch?v=6Hoo38Fr07g
+Video_3: https://www.youtube.com/watch?v=Q0N-z0H8VEU
+Video_2: https://www.youtube.com/watch?v=igVcGYbNWVE
+Video_1: https://www.youtube.com/watch?v=KFvHnWofNdY
+
+Why Chosen:
+Operator-focused insights on distribution and audience growth.
+
+Key Focus:
+Distribution systems + storytelling
+
+What to Extract:
+	•	Viral content frameworks
+	•	Audience growth systems
+	•	Writing for engagement
+
+Key Takeaway:
+Distribution > product. Reddit works when ideas are shareable.
+
+⸻
+
+10. Travis Jamison
+
+Platform: Blog / Linkedin
+Link: https://www.smash.vc
+
+Interview: https://www.ecommercefuel.com/investing-seo-and-strategic-decisions/
+
+Linkedin_post: https://www.linkedin.com/posts/travisvc_social-media-isnt-only-about-driving-traffic-activity-7358165855555207168-p_eB
+
+Blog_1: https://www.smash.vc
+
+
+Why Chosen:
+Combines SEO + community for long-term organic growth.
+
+Key Focus:
+SEO + community leverage
+
+What to Extract:
+	•	SEO + Reddit synergy
+	•	Organic acquisition strategies
+	•	Community-driven traffic
+
+Key Takeaway:
+SEO + Reddit = compounding organic growth engine.

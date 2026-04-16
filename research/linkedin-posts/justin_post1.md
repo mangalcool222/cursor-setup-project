@@ -1,5 +1,7 @@
 ### Post: Owning Your Time
 
+Link: https://www.linkedin.com/posts/justinwelsh_most-people-dont-believe-that-its-possible-activity-7449785625802723328-x8g3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDYtzUBxfSH1ybiwpzI5MMeVhsDO3GipEA
+
 Insight:
 This post shows how strong belief-driven content helps build authority and attract like-minded audiences. On Reddit, this translates to sharing perspectives and values that resonate deeply with people rather than promoting products directly.
 

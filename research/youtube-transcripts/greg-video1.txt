@@ -1,0 +1,14 @@
+Video 1: Community Building Framework
+
+Source: https://www.youtube.com/watch?v=e9J9s2_DAKE&t=3s
+
+Insight:
+Greg Isenberg’s framework focuses on building communities in phases — Engagement → Retention → Monetization. This aligns perfectly with Reddit-style growth where value and interaction come before promotion.
+
+Key Points:
+	•	Identify early superfans and give them ownership roles (admins/mods)
+	•	Start with niche content to build a highly engaged audience
+	•	Move users into owned communities (Discord/Slack)
+	•	Track “invite friends” as a stronger growth signal than follower count
+	•	Focus on organic growth before spending on ads
+	•	Achieve community-market fit before monetization

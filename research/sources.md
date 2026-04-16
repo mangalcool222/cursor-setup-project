@@ -19,7 +19,7 @@
 
 ⸻
 
-## Pieter Levels
+## 2. Pieter Levels
 **Platform:** Twitter / Indie Hackers / Blog  
 **Link:** [https://levels.io](https://levels.io)
 
@@ -39,7 +39,7 @@
 
 ⸻
 
-## Justin Welsh
+## 3. Justin Welsh
 **Platform:** LinkedIn / Twitter / YouTube / Newsletter  
 **Link:** [https://www.justinwelsh.me](https://www.justinwelsh.me)
 
@@ -61,7 +61,7 @@
 
 ⸻
 
-## Greg Isenberg
+## 4. Greg Isenberg
 **Platform:** Twitter / YouTube / Newsletter  
 **Link:** [https://www.gregisenberg.com](https://www.gregisenberg.com)
 
@@ -79,7 +79,7 @@
 
 ⸻
 
-## Courtland Allen
+## 5. Courtland Allen
 **Platform:** Indie Hackers / Podcast / Twitter  
 **Link:** [https://www.indiehackers.com](https://www.indiehackers.com)
 
@@ -98,7 +98,7 @@
 
 ⸻
 
-## Corey Haines
+## 6. Corey Haines
 **Platform:** Twitter / Blog  
 **Link:** [https://www.coreyhaines.co](https://www.coreyhaines.co)
 
@@ -118,7 +118,7 @@
 
 ⸻
 
-## Josh Comeau
+## 7. Josh Comeau
 **Platform:** Blog / Twitter  
 **Link:** [https://www.joshwcomeau.com](https://www.joshwcomeau.com)
 
@@ -136,7 +136,7 @@
 
 ⸻
 
-## Noah Kagan
+## 8. Noah Kagan
 **Platform:** YouTube / Blog  
 **Link:** [https://okdork.com](https://okdork.com)
 
@@ -155,7 +155,7 @@
 
 ⸻
 
-## Shaan Puri
+## 9. Shaan Puri
 **Platform:** Podcast / Twitter  
 **Link:** [https://www.mfmpod.com](https://www.mfmpod.com)
 
@@ -175,7 +175,7 @@
 
 ⸻
 
-## Travis Jamison
+## 10. Travis Jamison
 **Platform:** Blog / Linkedin  
 **Link:** [https://www.smash.vc](https://www.smash.vc)
 
